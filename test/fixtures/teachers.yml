@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student_id: 1
+  name: MyString
+  email: MyString
+  date: 2021-07-29 20:05:56
+  message: MyString
+
+two:
+  student_id: 1
+  name: MyString
+  email: MyString
+  date: 2021-07-29 20:05:56
+  message: MyString
